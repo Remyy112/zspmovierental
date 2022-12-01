@@ -1,0 +1,8 @@
+1. tabela "categories" - będą w niej wypisane różne kategorie filmów, 
+które będą potem łączone z odpowiednimi filmami.
+
+2. tabela "movieslist" - będą w niej wypisane filmy oraz informacje 
+na ich temat.
+
+3. tabela "users" - będą w niej wypisane dane użytkowników oraz
+tytuł filmu jaki wypożyczyli.
