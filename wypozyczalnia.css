@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+}
+
+.baner {
+    background-color: black;
+    color: white;
+    height: 15%;
+    width: 100%;
+    text-align: center;
+}
+
+.blokglowny {
+    background-color: white;
+    color: black;
+    height: 70%;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 350%;
+}
+
+th {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    font-size: 40px;
+}
+
+.stopa {
+    background-color: black;
+    color: white;
+    height: 15%;
+    width: 100%;
+    text-align: center;
+}
