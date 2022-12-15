@@ -22,11 +22,16 @@ h1 {
     font-size: 350%;
 }
 
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+
 th {
     border: 1px;
     border-color: black;
     border-style: solid;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .stopa {

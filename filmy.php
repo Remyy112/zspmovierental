@@ -25,10 +25,15 @@
                 ?>
         </table>
         <br>
+        <br>
+        <br>
         <a href="logowanie.php"><button>Sign In</button></a>
         <br>
         <br>
         <a href="rejestracja.php"><button>Register</button></a>
+        <br>
+        <br>
+        <a href="menu.php"><button>Menu</button></a>
     </div>
     
     <div class="stopa">
